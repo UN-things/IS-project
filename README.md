@@ -4,8 +4,8 @@
 - **Profesor:** Fabio González
 - **Fecha de entrega:** 2021-07-31
 - **Integrantes del grupo:**
-  - Valeria Huepa Ducuara
   - Liseth Yurany Arevalo Yaruro
+  - Valeria Huepa Ducuara
   - Guiselle Tatiana Zambrano Penagos
 - [Enunciado del proyecto](statement/Proyecto_Final.pdf)
 - [Manual CRISP-DM](statement/Manual_CRISP_DM_de_IBM_SPSS_Modeler.pdf)
